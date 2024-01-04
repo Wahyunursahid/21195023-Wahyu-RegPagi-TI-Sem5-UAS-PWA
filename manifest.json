@@ -1,0 +1,54 @@
+{
+  "name": "mycv-fortofolio",
+  "short_name": "mycv",
+  "description": "pwa web cv ini memiliki indexDB,FCM dan moblie look .",
+  "icons": [{
+    "src": "images/brewoknavia512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable"
+  },
+  {
+    "src": "images/brewoknavia384.png",
+    "sizes": "384x384",
+    "type": "image/png",
+    "purpose": "any"
+  }],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "screenshots": [
+    {
+      "src": "images/brewoknavia512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "url": "https://cv.uyahprutukkrizkabrebes.my.id/",
+      "description": "link ke cv2",
+      "type": "wide"
+    },
+    {
+      "src": "images/brewoknavia384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/brewoknavia425.png",
+      "sizes": "425x425",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/foto1200x627.png",
+      "sizes": "1200x627",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "orientation": "portrait-primary"
+}
